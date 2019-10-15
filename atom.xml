@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://binyang.best/"/>
-  <updated>2019-10-15T06:37:49.878Z</updated>
+  <updated>2019-10-15T08:10:27.869Z</updated>
   <id>https://binyang.best/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>django链接mysql</title>
+    <link href="https://binyang.best/2019/10/15/django-lian-jie-mysql/"/>
+    <id>https://binyang.best/2019/10/15/django-lian-jie-mysql/</id>
+    <published>2019-10-15T08:03:28.000Z</published>
+    <updated>2019-10-15T08:10:27.869Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h4 id=&quot;最新的Django安装和连接mysql会提示mysqclient版本只有0-9几，但实际上你是安装了1-13版本的，这时候就应该&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="iss" scheme="https://binyang.best/tags/iss/"/>
+    
+  </entry>
   
   <entry>
     <title>Yasujirō Ozu</title>

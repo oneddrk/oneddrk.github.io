@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>django链接mysql</title>
+      <link href="/2019/10/15/django-lian-jie-mysql/"/>
+      <url>/2019/10/15/django-lian-jie-mysql/</url>
+      
+        <content type="html"><![CDATA[<h4 id="最新的Django安装和连接mysql会提示mysqclient版本只有0-9几，但实际上你是安装了1-13版本的，这时候就应该"><a href="#最新的Django安装和连接mysql会提示mysqclient版本只有0-9几，但实际上你是安装了1-13版本的，这时候就应该" class="headerlink" title="最新的Django安装和连接mysql会提示mysqclient版本只有0.9几，但实际上你是安装了1.13版本的，这时候就应该"></a>最新的Django安装和连接mysql会提示mysqclient版本只有0.9几，但实际上你是安装了1.13版本的，这时候就应该</h4><p>stackOverFlow了，别问我.</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> iss </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Yasujirō Ozu</title>
       <link href="/2019/10/15/yasujiro-ozu/"/>
       <url>/2019/10/15/yasujiro-ozu/</url>
