@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://binyang.best/2019/10/15/free/</loc>
+    
+    <lastmod>2019-10-15T12:05:10.961Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://binyang.best/2019/10/15/podman/</loc>
     
     <lastmod>2019-10-15T11:57:45.109Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>https://binyang.best/2019/10/15/django-lian-jie-mysql/</loc>
     
     <lastmod>2019-10-15T11:55:28.266Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://binyang.best/2019/10/15/free/</loc>
-    
-    <lastmod>2019-10-15T11:52:51.359Z</lastmod>
     
   </url>
   
