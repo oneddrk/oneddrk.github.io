@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>podman</title>
+      <link href="/2019/10/15/podman/"/>
+      <url>/2019/10/15/podman/</url>
+      
+        <content type="html"><![CDATA[<p>总结：非root运行非常好，不过没有ip地址，在manjaro下有问题的</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>free</title>
       <link href="/2019/10/15/free/"/>
       <url>/2019/10/15/free/</url>
