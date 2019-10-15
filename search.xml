@@ -4,6 +4,44 @@
   
     
     <entry>
+      <title>parrot os</title>
+      <link href="/2019/10/15/parrot-os/"/>
+      <url>/2019/10/15/parrot-os/</url>
+      
+        <content type="html"><![CDATA[<p>有个大BUG啊，升级好多次了，一直没解决，分辨率不对，图形都好大的，不过小能手（咳）调整字体后就好了</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>manjaro</title>
+      <link href="/2019/10/15/manjaro/"/>
+      <url>/2019/10/15/manjaro/</url>
+      
+        <content type="html"><![CDATA[<p>硬件问题解决的很好，不过mint用习惯了，还是主要是mint</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> tech </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> linux </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>podman</title>
       <link href="/2019/10/15/podman/"/>
       <url>/2019/10/15/podman/</url>
