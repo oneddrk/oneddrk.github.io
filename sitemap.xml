@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://binyang.best/about/index.html</loc>
+    
+    <lastmod>2019-10-15T03:03:39.976Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://binyang.best/friends/index.html</loc>
     
     <lastmod>2019-10-15T00:37:30.972Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>https://binyang.best/contact/index.html</loc>
     
     <lastmod>2019-10-15T00:12:49.940Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://binyang.best/about/index.html</loc>
-    
-    <lastmod>2019-10-14T23:44:50.310Z</lastmod>
     
   </url>
   
