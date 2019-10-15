@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://binyang.best/2019/10/15/le-petit-prince/</loc>
+    
+    <lastmod>2019-10-15T09:45:46.283Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://binyang.best/2019/10/15/the-catcher-in-the-rye/</loc>
+    
+    <lastmod>2019-10-15T09:45:00.515Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://binyang.best/2019/10/15/django-lian-jie-mysql/</loc>
     
     <lastmod>2019-10-15T08:10:27.869Z</lastmod>
@@ -86,14 +100,14 @@
   </url>
   
   <url>
-    <loc>https://binyang.best/archives/index.html</loc>
+    <loc>https://binyang.best/tags/index.html</loc>
     
     <lastmod>2019-10-14T23:09:26.061Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://binyang.best/tags/index.html</loc>
+    <loc>https://binyang.best/archives/index.html</loc>
     
     <lastmod>2019-10-14T23:09:26.061Z</lastmod>
     

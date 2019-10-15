@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://binyang.best/"/>
-  <updated>2019-10-15T08:10:27.869Z</updated>
+  <updated>2019-10-15T09:45:46.283Z</updated>
   <id>https://binyang.best/</id>
   
   <author>
@@ -15,6 +15,51 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Le Petit Prince</title>
+    <link href="https://binyang.best/2019/10/15/le-petit-prince/"/>
+    <id>https://binyang.best/2019/10/15/le-petit-prince/</id>
+    <published>2019-10-15T09:43:35.000Z</published>
+    <updated>2019-10-15T09:45:46.283Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;第一本让我想着去读原著的书&lt;/p&gt;
+
+        
+      
+    
+    </summary>
+    
+      <category term="book" scheme="https://binyang.best/categories/book/"/>
+    
+    
+      <category term="lucky to known" scheme="https://binyang.best/tags/lucky-to-known/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>The Catcher in the Rye</title>
+    <link href="https://binyang.best/2019/10/15/the-catcher-in-the-rye/"/>
+    <id>https://binyang.best/2019/10/15/the-catcher-in-the-rye/</id>
+    <published>2019-10-15T09:42:57.000Z</published>
+    <updated>2019-10-15T09:45:00.515Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="book" scheme="https://binyang.best/categories/book/"/>
+    
+    
+      <category term="lucky to known" scheme="https://binyang.best/tags/lucky-to-known/"/>
+    
+  </entry>
   
   <entry>
     <title>django链接mysql</title>
