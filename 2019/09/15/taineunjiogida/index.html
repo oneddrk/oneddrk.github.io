@@ -654,6 +654,28 @@
     </div>
 
     
+    <link rel="stylesheet" href="/libs/gitalk/gitalk.css">
+<link rel="stylesheet" href="/css/my-gitalk.css">
+
+<div class="card gitalk-card" data-aos="fade-up">
+    <div id="gitalk-container" class="card-content"></div>
+</div>
+
+<script src="/libs/gitalk/gitalk.min.js"></script>
+<script>
+    let gitalk = new Gitalk({
+        clientID: 'dc9a2ec2c383853da3eb',
+        clientSecret: '6135556ec86f065b7542ff807c3fd4dc3e90307e',
+        repo: 'binyang179.github.io',
+        owner: 'binyang179',
+        admin: "binyang179",
+        id: '2019/09/15/taineunjiogida/',
+        distractionFreeMode: false  // Facebook-like distraction free mode
+    });
+
+    gitalk.render('gitalk-container');
+</script>
+    
 
     
 
