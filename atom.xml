@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://binyang.best/"/>
-  <updated>2019-10-15T13:41:33.295Z</updated>
+  <updated>2019-10-16T03:13:25.512Z</updated>
   <id>https://binyang.best/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>python生成词云教程</title>
+    <link href="https://binyang.best/2019/10/16/python-sheng-cheng-ci-yun-jiao-cheng/"/>
+    <id>https://binyang.best/2019/10/16/python-sheng-cheng-ci-yun-jiao-cheng/</id>
+    <published>2019-10-16T02:59:07.000Z</published>
+    <updated>2019-10-16T03:13:25.512Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;其实挺简单的，做了两个，有一个有图形界面，但是不知道放哪儿了，&lt;br&gt;&lt;a href=&quot;https://github.com/binyang179/wordcloud.git&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>MSI gt62vr</title>
