@@ -656,29 +656,29 @@
     </div>
 
     
-    <link rel="stylesheet" href="/libs/gitalk/gitalk.css">
-<link rel="stylesheet" href="/css/my-gitalk.css">
 
-<div class="card gitalk-card" data-aos="fade-up">
-    <div id="gitalk-container" class="card-content"></div>
+    
+    <link rel="stylesheet" href="/libs/gitment/gitment-default.css">
+<link rel="stylesheet" href="/css/gitment.css">
+
+<div class="gitment-card card" data-aos="fade-up">
+    <div id="gitment-content" class="card-content"></div>
 </div>
 
-<script src="/libs/gitalk/gitalk.min.js"></script>
+<script src="/libs/gitment/gitment.js"></script>
 <script>
-    let gitalk = new Gitalk({
-        clientID: 'dc9a2ec2c383853da3eb',
-        clientSecret: '6135556ec86f065b7542ff807c3fd4dc3e90307e',
-        repo: 'binyang179.github.io',
-        owner: 'binyang179',
-        admin: "binyang179",
-        id: '2019/07/15/ddrk/',
-        distractionFreeMode: false  // Facebook-like distraction free mode
-    });
+var gitment = new Gitment({
+    id: 'Mon Jul 15 2019 12:23:19 GMT+0800',
+    owner: 'binyang179',
+    repo: 'binyang179.github.io',
+    oauth: {
+        client_id: '9b5ded46446e3c04ca72',
+        client_secret: 'e39c6b7c28902386d2d33537d305f151d8ae2dd0'
+    }
+});
 
-    gitalk.render('gitalk-container');
+gitment.render('gitment-content');
 </script>
-    
-
     
 
     
@@ -1101,7 +1101,7 @@ $(function () {
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
 
-<script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-150221544-1"></script>
 <script>
     window.dataLayer = window.dataLayer || [];
     function gtag() {
@@ -1109,13 +1109,13 @@ $(function () {
     }
 
     gtag('js', new Date());
-    gtag('config', '');
+    gtag('config', 'UA-150221544-1');
 </script>
 
 
 
     
-    <script src="/libs/others/firework.js"></script>    
+    <script src="/libs/others/clicklove.js"></script>
     
 
     
